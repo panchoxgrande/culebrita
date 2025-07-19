@@ -1,6 +1,6 @@
 # 🐍 Culebrita
 
-Versión retro del clásico Snake... ¡directo en tu terminal!
+Versión retro del clásico Snake... ¡directo en tu terminal, ahora con puntuación en vivo! 🧠🎯
 
 ## 🚀 Ejecución
 
@@ -11,8 +11,14 @@ python culebrita.py
 ## 🎮 Controles
 
 - Usa las flechas del teclado para mover la culebrita
-- Come la manzana 🍎
+- Come la manzana 🍎 y suma puntos
 - No te muerdas ni choques con los bordes
+
+## 🧠 Características nuevas
+
+- Muestra el **puntaje en tiempo real**
+- La manzana nunca aparece dentro de la serpiente
+- Verifica el tamaño mínimo del terminal
 
 ## 💻 Requisitos
 
